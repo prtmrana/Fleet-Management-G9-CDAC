@@ -1,0 +1,36 @@
+.custom-navbar {
+    background-color: #3498dbc3; /* Change the background color as needed */
+    color: #ffffff; /* Change the text color as needed */
+  }
+  
+  .custom-navbar .logoname {
+    font-size: 24px; /* Adjust the font size as needed */
+    font-weight: bold;
+  }
+  
+  .custom-navbar a {
+    color: #ffffff; /* Change link text color */
+    text-decoration: none;
+    margin-right: 20px; /* Adjust spacing between nav items */
+  }
+  
+  .custom-navbar a:hover {
+    color: #f39c12; /* Change link text color on hover */
+  }
+  
+  .custom-navbar .login-button {
+    background-color: #f39c12; /* Change button background color */
+    color: #ffffff; /* Change button text color */
+    padding: 10px 20px; /* Adjust button padding as needed */
+    border-radius: 5px; /* Add rounded corners to the button */
+    text-decoration: none;
+    transition: background-color 0.3s ease-in-out;
+  }
+  
+  .custom-navbar .login-button:hover {
+    background-color: #e67e22; /* Change button background color on hover */
+    color: #ffffff; /* Change button text color on hover */
+  }
+  
+  /* Add media queries for responsiveness if needed */
+  

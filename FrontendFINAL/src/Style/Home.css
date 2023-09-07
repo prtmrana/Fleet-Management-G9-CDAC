@@ -1,0 +1,60 @@
+/* Home.css */
+
+/* Style for the overall container */
+.home-container {
+  background-color: #f7f7f7; /* Set your desired background color */
+  padding: 10px;
+}
+
+/* Style for the pickup and drop columns */
+.pickup-column {
+  background-color: #d2e7f2;
+  padding: 20px;
+  border-radius: 5px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.car-images-column {
+  background-color: #d2e7f2;
+  padding: 20px;
+  border-radius: 5px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  display: flex; /* Add Flexbox */
+  justify-content: center; /* Center horizontally */
+  align-items: center; /* Center vertically */
+}
+
+/* Style for the search button */
+.search-button {
+  margin-top: 20px;
+  width: 100%;
+}
+
+/* Style for date picker inputs */
+.date-picker input {
+  border: 1px solid #ccc;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+/* Style for location sections */
+.location-section {
+  margin-top: 10px;
+}
+
+/* Style for location items */
+.location-item {
+  margin-top: 15px;
+}
+
+/* Style for location name */
+.location-name {
+  font-weight: bold;
+}
+
+/* Style for location email */
+.location-email {
+  color: #666;
+}
+
+/* Other custom styles can be added here */
